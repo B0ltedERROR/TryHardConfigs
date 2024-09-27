@@ -11,7 +11,7 @@
 - Ripgrep
 - Btop
 - Neofetch
-- Turmux
+- Tmux
 - NVimm
 - vimfm
 
