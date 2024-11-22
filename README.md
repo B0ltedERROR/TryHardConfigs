@@ -36,10 +36,6 @@ feel free to take anything you like, this is kind of like my base configuration 
 - tar
 - ffmpeg
 - bat
-- openssh
-- nmap
-- pet
-- difftastic
 
 ### programming cli tools
 - make
